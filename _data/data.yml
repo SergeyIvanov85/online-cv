@@ -8,7 +8,7 @@ sidebar:
 
     # Profile information
     name: Sergey Ivanov
-    tagline: Head of international cooperation branch
+    tagline: Head of international cooperation branch / Front-End Developer
     avatar: profile.png  #place a 100x100 picture inside /assets/images/ folder and provide the name of the file below
 
     # Sidebar links
@@ -42,80 +42,76 @@ sidebar:
           level: Native
 
     interests:
-      title: Interests
+      title: 
       info:
-        - item: Climbing
+        - item: 
           link:
 
-        - item: Snowboarding
+        - item: 
           link:
 
-        - item: Cooking
+        - item: 
           link:
 
 career-profile:
     title: Career Profile
     summary: |
-      Summarise your career here lorem ipsum dolor sit amet, consectetuer
-      adipiscing elit. You can [download this free resume/CV template here]().
-      Aenean commodo ligula eget dolor aenean massa. Cum sociis natoque
-      penatibus et magnis dis parturient montes, nascetur ridiculus mus.
-      Donec quam felis, ultricies nec, pellentesque eu.
-      Second paragraph if required.
+      I devoted the most significant part of my work activity to the implementation of practical tasks related to international military cooperation, carried out in order to implement the state policy in the field of military security. Implementing in practice the main provisions of international treaties in the field of arms control (Vienna Document 2011, Treaty on Conventional Armed Forces in Europe, Treaty on Open Skies), gained experience in performing the following tasks and functions:
+      - implementation of the state policy of the Republic of Belarus in the field of arms control, preparation of proposals for its development;
+      - implementation of information and analytical activities in the field of arms control, taking into account the interests of military security;
+      - negotiating arms control issues;
+      - formation and improvement of the legal framework in the field of arms control;
+      - preparation of data and briefings on the fulfillment by the Republic of Belarus of obligations on international treaties in the field of arms control;
+      - participation in the provision of foreign inspection (observation) within the framework of international treaties in the field of arms control on the territory of the Republic of Belarus and verification of compliance with treaty obligations by other participating States.
+
+      Currently, holding the position of head of international military cooperation branch in the "western" direction, I am directly responsible for the implementation of the tasks and functions of cooperation:
+      - with the states of North and South America, Africa, Europe, Southeast Asia ;
+      - with international organizations (UN, OSCE, NATO, ICRC, etc.), including within the framework of international conventions (destruction of stocks of APM, SALW, etc.) in the interests of developing and improving mechanisms for ensuring global and regional security, increasing the openness and transparency of military-political processes, reducing tension in the region, as well as participating in activities to maintain international peace and security.
+
+      At the same time, I am not resting on my laurels and in connection with the end of my military career, I am actively in progress in the field of web development as a front-end developer.
+
+
+
+
 education:
     title: Education
     info:
-      - degree: MSc in Computer Science
-        university: University of London
-        time: 2011 - 2012
+      - degree: Diploma of Higher Education
+        university: Military Academy of the Republic of Belarus
+        time: 2002 - 2006
         details: |
-          Describe your study here lorem ipsum dolor sit amet, consectetuer
-          adipiscing elit. Aenean commodo ligula eget dolor. Aenean massa. Cum
-          sociis natoque penatibus et magnis dis parturient montes, nascetur
-          ridiculus mus. Donec quam felis, ultricies nec, pellentesque eu,
-          pretium quis, sem.
-            - Bullet point
-            - Bullet point
-      - degree: BSc in Applied Mathematics
-        university: Bristol University
-        time: 2007 - 2011
+          Qualified as a management specialist
+      - degree: Honor Diploma of Higher Education
+        university: Military Academy of the Republic of Belarus
+        time: 2011 - 2013
         details: |
-          Describe your study here lorem ipsum dolor sit amet, consectetuer
-          adipiscing elit. Aenean commodo ligula eget dolor. Aenean massa. Cum
-          sociis natoque penatibus et magnis dis parturient montes, nascetur
-          ridiculus mus. Donec quam felis, ultricies nec, pellentesque eu,
-          pretium quis, sem.
-            - Bullet point
-            - Bullet point
+          Qualification of a specialist in the field of public administration was awarded
 experiences:
     title: Experiences
     info:
-      - role: Lead Developer
-        time: 2015 - Present
-        company: Startup Hubs, San Francisco
+      - role: Head of International Cooperation branch (W.Europe, S-E Asia, Africa, S and N America)
+        time: 2022 - Present
+        company: Ministry of Defence, Minsk
         details: |
-          Describe your role here lorem ipsum dolor sit amet, consectetuer
-          adipiscing elit. Aenean commodo ligula eget dolor. Aenean massa.
-          Cum sociis natoque penatibus et magnis dis parturient montes,
-          nascetur ridiculus mus. Donec quam felis, ultricies nec,
-          pellentesque eu, pretium quis, sem. Nulla consequat massa quis
-          enim. Donec pede justo. Sed ut perspiciatis unde omnis iste natus
-          error sit voluptatem accusantium doloremque laudantium, totam rem
-          aperiam, eaque ipsa quae ab illo inventore veritatis et quasi
-          architecto beatae vitae dicta sunt explicabo.
-            - Bullet point
-            - Bullet point
-      - role: Senior Software Engineer
-        time: 2014 - 2015
-        company: Google, London
+          The main tasks assigned in order to implement these functions:
+          - participation in the implementation of the state policy of the Republic of Belarus in the field of international military cooperation (IMC);
+          - participation in negotiations as part of the delegations of the Republic of Belarus;
+          - participation in the preparation of draft international treaties of the Republic of Belarus;
+          - organization of the participation of military personnel of the Armed Forces in activities to maintain international peace and security;
+          - interaction with the military-diplomatic corps accredited at the Ministry of Defense, as well as participation in the activities of military diplomats of the Republic of Belarus abroad on issues within their competence;
+          - protocol, material, technical, transport and information support for the holding events on IMC;
+        - methodological guidance for planning and implementation of measures for IMC.
+      - role: Senior Officer | Information and Analytical Unit, Verification and Arms Control Division
+        time: 2019 - 2022
+        company: Ministry of Defence, Minsk
         details: |
-          Describe your role here lorem ipsum dolor sit amet, consectetuer
-          adipiscing elit. Aenean commodo ligula eget dolor. Aenean massa.
-          Cum sociis natoque penatibus et magnis dis parturient montes,
-          nascetur ridiculus mus. Donec quam felis, ultricies nec,
-          pellentesque eu, pretium quis, sem.
-            - Bullet point
-            - Bullet point
+          Implementation of practical tasks related to international military cooperation, carried out in order to implement the state policy in the field of military security. Implementing in practice the main provisions of international treaties in the field of arms control (Vienna Document 2011, Treaty on Conventional Armed Forces in Europe, Treaty on Open Skies), gained experience in performing the following tasks and functions:
+          - implementation of the state policy of the Republic of Belarus in the field of arms control, preparation of proposals for its development;
+          - implementation of information and analytical activities in the field of arms control, taking into account the interests of military security;
+          - negotiating arms control issues;
+          - formation and improvement of the legal framework in the field of arms control;
+          - preparation of data and briefings on the fulfillment by the Republic of Belarus of obligations on international treaties in the field of arms control;
+          - participation in the provision of foreign inspection (observation) within the framework of international treaties in the field of arms control on the territory of the Republic of Belarus and verification of compliance with treaty obligations by other participating States.
       - role: UI Developer
         time: 2012 - 2014
         company: Amazon, London
